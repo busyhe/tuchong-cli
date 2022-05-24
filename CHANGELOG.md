@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/busyhe/tuchong-cli/compare/v1.1.0...v1.1.1) (2022-05-24)
+
+
+### Bug Fixes
+
+* supplement License ([721c5c2](https://github.com/busyhe/tuchong-cli/commit/721c5c2d655b2e999f7d47e915b39e291b4fe471))
+
 # [1.1.0](https://github.com/busyhe/tuchong-cli/compare/v1.0.0...v1.1.0) (2022-05-24)
 
 

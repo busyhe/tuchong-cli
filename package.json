@@ -1,6 +1,6 @@
 {
     "name": "tuchong-cli",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "图虫脚手架",
     "scripts": {
         "preinstall": ""
