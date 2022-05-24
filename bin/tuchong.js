@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 const program = require('commander');
 const ora = require('ora');
 const search = require('../lib/search');
